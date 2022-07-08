@@ -1,0 +1,10 @@
+
+
+
+** abfragen des LKr : standard (n) (lau) (fue) ...
+
+** abfragen der var
+*** buchstaben
+*** zahl
+
+** Fahrzeugname
